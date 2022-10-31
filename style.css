@@ -633,6 +633,7 @@ button a{
 
     .details{
         display: block;
+        border: 1px solid red;
         height: 105vh;
         margin-top: 20px;
     }
